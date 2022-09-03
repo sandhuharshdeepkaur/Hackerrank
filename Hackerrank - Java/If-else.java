@@ -27,6 +27,6 @@ public class Solution {
             System.out.println("Not Weird");
         }
 
-        scanner.close();
+        scanner.close();                                           // Closing Input Function
     }
 }
