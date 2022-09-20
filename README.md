@@ -1,1 +1,1 @@
-<h1> Answers of Hackerrank Questions </h1>
+<h1> Hackerrank Solutions </h1>
